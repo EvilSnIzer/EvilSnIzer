@@ -6,147 +6,105 @@
 
 **AI/ML Engineer** · **Quant & Market Analyst** · **Data Engineer** · **Business Analyst** · **Software Engineer**
 
-*Building systems that turn complex data into models, insights, decisions, and software.*
+*I build practical systems where data becomes models, models become insight, and insight becomes software.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer)
-[![Python](https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![ML](https://img.shields.io/badge/AI%2FML-Models-FF6F00?style=flat-square)](#)
-[![Data](https://img.shields.io/badge/Data-Pipelines-2F80ED?style=flat-square)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#)
+[![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
 [![Quant](https://img.shields.io/badge/Quant-Markets-111827?style=flat-square)](#)
 
 </div>
 
----
+<br>
 
-## `01` · WHAT I BUILD
+## What I build
 
 <table>
 <tr>
 <td width="50%">
 
-### AI / ML
-Predictive systems, feature engineering, time-series modeling, model evaluation, and practical GenAI/LLM applications.
+**AI / ML**  
+Predictive systems, feature engineering, time-series modeling, evaluation, and practical LLM applications.
 
 </td>
 <td width="50%">
 
-### Quant / Markets
-Trading analytics, financial data, quantitative research, forecasting, backtesting, and market intelligence.
+**Quant / Markets**  
+Trading analytics, financial data, quantitative research, forecasting, and market intelligence.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Data / Business
-Scalable pipelines, SQL analytics, Spark processing, BI dashboards, KPI intelligence, and decision systems.
+**Data / Business**  
+Scalable pipelines, SQL analytics, Spark processing, BI dashboards, KPIs, and decision systems.
 
 </td>
 <td width="50%">
 
-### Software Engineering
-Python and modern web systems, APIs, automation, Docker, CI/CD, testing, and production-minded architecture.
+**Software Engineering**  
+Python systems, APIs, automation, Docker, CI/CD, testing, and production-minded architecture.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `02` · SELECTED SYSTEMS
+## Selected work
 
-### `01` Crypto Trade Outcome Predictor  ·  AI / ML
+| | Project | Focus |
+|---|---|---|
+| `01` | **[Crypto Trade Outcome Predictor](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)** | Time-aware ML · Feature Engineering · Validation |
+| `02` | **[Crypto Spark Pipeline](https://github.com/EvilSnIzer/Crypto-spark-pipeline)** | PySpark · Spark SQL · Databricks · ETL |
+| `03` | **[CRM Analytics & Sales Funnel Intelligence](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)** | SQL · ML · Power BI · Business Analytics |
+| `04` | **[Trading Analytics](https://github.com/EvilSnIzer/data-science)** | Python · Statistics · Financial Data |
+| `05` | **[Automation & QA Engineering](https://github.com/EvilSnIzer/automation-qa-assessment)** | APIs · Testing · n8n · Automation |
 
-**Time-aware machine learning for crypto trade outcomes.** Leakage-safe rolling features, time-based evaluation, baselines, walk-forward validation, testing, CI, and reproducible artifacts.
+> **A few things I care about:** clean data, leakage-safe evaluation, reproducibility, observable pipelines, and software that survives beyond the demo.
 
-`Python` `scikit-learn` `Time Series` `Feature Engineering` `Model Evaluation`
+<br>
 
-→ **[Explore project](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)**
-
-### `02` Crypto Spark Pipeline  ·  DATA ENGINEERING
-
-**Production-shaped PySpark pipeline processing 211K synthetic crypto trades.** Bronze → Silver → Gold architecture with Spark SQL, partitioned Parquet, window functions, AQE, and Databricks execution.
-
-`PySpark` `Spark SQL` `Parquet` `Databricks` `ETL`
-
-→ **[Explore project](https://github.com/EvilSnIzer/Crypto-spark-pipeline)**
-
-### `03` CRM Analytics & Sales Funnel Intelligence  ·  BUSINESS / DATA
-
-**End-to-end analytics across 50K+ synthetic CRM leads.** Relational SQL analysis, conversion modeling, churn prediction, and Power BI reporting.
-
-`SQL` `Python` `scikit-learn` `Power BI` `Business Intelligence`
-
-→ **[Explore project](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)**
-
-### `04` Data Science & Trading Analytics  ·  QUANT / MARKETS
-
-**Quantitative analysis of trading behavior and market sentiment.** Performance, PnL, win-rate, volume, behavioral patterns, and market-context analysis.
-
-`Python` `Pandas` `Statistics` `Financial Data` `Market Analysis`
-
-→ **[Explore project](https://github.com/EvilSnIzer/data-science)**
-
-### `05` Automation & QA Engineering  ·  SOFTWARE
-
-**Engineering workflows for testing, automation, monitoring, and API-driven operations.** Includes root-cause analysis, retries, error handling, uptime monitoring, and automated reporting.
-
-`Python` `APIs` `n8n` `Testing` `Automation` `CI/CD`
-
-→ **[Explore project](https://github.com/EvilSnIzer/automation-qa-assessment)**
-
----
-
-## `03` · TECHNOLOGY
+## Contribution activity
 
 <div align="center">
 
-`Python` · `SQL` · `PySpark` · `Spark SQL` · `Pandas` · `NumPy` · `scikit-learn` · `Databricks`
-
-`Machine Learning` · `Time Series` · `Quantitative Analysis` · `Financial Data` · `Power BI`
-
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `REST APIs` · `Docker` · `GitHub Actions` · `n8n`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvilSnIzer/EvilSnIzer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvilSnIzer/EvilSnIzer/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/EvilSnIzer/EvilSnIzer/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
----
+<br>
 
-## `04` · ENGINEERING MINDSET
-
-```text
-DATA       →      MODEL      →      VALIDATE      →      DECIDE      →      DEPLOY
-
-reliable          useful           rigorous           actionable          reproducible
-```
-
-- Reproducibility over one-off experimentation.
-- Leakage prevention and data quality as first-class concerns.
-- Evaluation strategies that respect the structure of the data.
-- Explicit, testable, observable pipelines.
-- Documentation of architecture, assumptions, and trade-offs.
-
----
-
-## `05` · CONTRIBUTION FLOW
+## Toolbox
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EvilSnIzer/EvilSnIzer/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+`Python` `SQL` `PySpark` `Spark SQL` `Pandas` `NumPy` `scikit-learn` `Databricks`
+
+`Machine Learning` `Time Series` `Quantitative Analysis` `Financial Data` `Power BI`
+
+`JavaScript` `TypeScript` `React` `Node.js` `REST APIs` `Docker` `GitHub Actions` `n8n`
 
 </div>
 
----
+<br>
 
-## `06` · CURRENTLY BUILDING
+## Currently building
 
 **AI Engineering** · Agentic Systems · LLM Applications · Quantitative Intelligence · Financial Analytics · Scalable Data Infrastructure
 
----
+<br>
 
 <div align="center">
 
-### `ENGINEERING INTELLIGENCE FOR DATA, MARKETS & SOFTWARE.`
+*Engineering intelligence, one system at a time.*
 
-[**GitHub**](https://github.com/EvilSnIzer)
+[GitHub](https://github.com/EvilSnIzer)
 
 </div>
