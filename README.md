@@ -2,84 +2,141 @@
 
 # MANAN SHARMA
 
-### Engineering Intelligence for Data, Markets & Software.
+**Engineering Intelligence for Data, Markets & Software.**
 
 AI/ML Engineer · Quant & Market Analyst · Data Engineer · Business Analyst · Software Engineer
 
-*I build practical systems where data becomes models, models become insight, and insight becomes software.*
+<sub>Building systems where data becomes models, models become insight, and insight becomes software.</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#) [![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![AI%2FML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#) [![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
 
 </div>
 
----
+<br>
 
-## Profile
+## About
 
-<table>
-<tr>
-<td width="62%" valign="top">
+I work at the intersection of **machine learning, quantitative analysis, data engineering, business intelligence, and software engineering**.
 
-### Turning messy information into useful systems.
+My goal is to turn messy information into systems that are **useful, measurable, and reproducible**.
 
-My work sits at the intersection of **machine learning, quantitative analysis, data engineering, business intelligence, and software**.
-
-I like systems that are measurable and reproducible — not just impressive in a demo.
-
-**Core interests**  
-AI engineering · financial intelligence · time-series ML · scalable data · automation
-
-</td>
-<td width="38%" valign="top">
-
-### Focus
-
-**01** · Intelligence  
-**02** · Data  
-**03** · Markets  
-**04** · Software
+> *Curious about the problem. Precise about the data. Practical about the solution.*
 
 <br>
 
-`Think → Build → Validate → Ship`
+## What I work with
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**AI / ML**
+
+`Python`  
+`scikit-learn`  
+`Pandas`  
+`Time Series`
+
+</td>
+<td width="25%" align="center">
+
+**Data**
+
+`SQL`  
+`PySpark`  
+`Spark SQL`  
+`Databricks`
+
+</td>
+<td width="25%" align="center">
+
+**Quant**
+
+`Statistics`  
+`Financial Data`  
+`PnL`  
+`Market Analysis`
+
+</td>
+<td width="25%" align="center">
+
+**Software**
+
+`Docker`  
+`APIs`  
+`React`  
+`GitHub Actions`
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## Selected systems
+## Selected work
 
-### `01` · Crypto Trade Outcome Predictor
-**AI / ML** · `Python` `scikit-learn` `Time Series`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Time-aware ML for crypto trade outcomes with leakage-safe rolling features, walk-forward validation, baselines, testing, CI, and reproducible evaluation.
+### ◇ Crypto Trade Outcome Predictor
 
-→ [Explore repository](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)
+**AI / ML**
 
-### `02` · Crypto Spark Pipeline
-**Data Engineering** · `PySpark` `Spark SQL` `Databricks`
+Time-aware crypto ML with leakage-safe rolling features, walk-forward validation, baselines, testing, CI, and reproducible evaluation.
 
-Production-shaped Bronze → Silver → Gold processing for **211K synthetic trades**, using partitioned Parquet, window analytics, AQE, and Databricks execution.
+`Python` `scikit-learn` `Time Series`
 
-→ [Explore repository](https://github.com/EvilSnIzer/Crypto-spark-pipeline)
+→ [Repository](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)
 
-### `03` · CRM Analytics & Sales Intelligence
-**Business / Data** · `SQL` `Python` `Power BI`
+</td>
+<td width="50%" valign="top">
 
-End-to-end analytics across **50K+ synthetic leads**, combining relational SQL, conversion modeling, churn prediction, and business reporting.
+### ◇ Crypto Spark Pipeline
 
-→ [Explore repository](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)
+**Data Engineering**
 
-### `04` · Trading Analytics
-**Quant / Markets** · `Python` `Pandas` `Statistics`
+Bronze → Silver → Gold processing for **211K synthetic trades**, with Spark SQL, partitioned Parquet, window analytics, AQE, and Databricks.
 
-Trading behavior, PnL, win rate, volume, and market-sentiment analysis built from historical data.
+`PySpark` `Spark SQL` `Databricks`
 
-→ [Explore repository](https://github.com/EvilSnIzer/data-science)
+→ [Repository](https://github.com/EvilSnIzer/Crypto-spark-pipeline)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◇ CRM Analytics & Sales Intelligence
+
+**Business / Data**
+
+Analytics across **50K+ synthetic leads**, combining relational SQL, conversion modeling, churn prediction, and Power BI reporting.
+
+`SQL` `Python` `Power BI`
+
+→ [Repository](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ Trading Analytics
+
+**Quant / Markets**
+
+Historical trading analysis covering behavior, PnL, win rate, volume, and market sentiment.
+
+`Python` `Pandas` `Statistics`
+
+→ [Repository](https://github.com/EvilSnIzer/data-science)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Contribution activity
 
@@ -93,52 +150,19 @@ Trading behavior, PnL, win rate, volume, and market-sentiment analysis built fro
 
 </div>
 
----
+<br>
 
-## Toolkit
+## Engineering philosophy
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**AI / ML**
-
-`Python`  
-`scikit-learn`  
-`Pandas` · `NumPy`  
-`Time Series`
-
-</td>
-<td width="33%" valign="top">
-
-**Data / Quant**
-
-`SQL` · `PySpark`  
-`Spark SQL` · `Databricks`  
-`Parquet` · `Power BI`
-
-</td>
-<td width="33%" valign="top">
-
-**Software**
-
-`Docker` · `APIs`  
-`React` · `Node.js`  
-`GitHub Actions` · `n8n`
-
-</td>
+<td width="33%" align="center"><strong>01</strong><br><sub>Reliable data first</sub></td>
+<td width="33%" align="center"><strong>02</strong><br><sub>Validate before trusting</sub></td>
+<td width="33%" align="center"><strong>03</strong><br><sub>Build for reproducibility</sub></td>
 </tr>
 </table>
 
----
-
-## Engineering principles
-
-> **Reliable data. Rigorous evaluation. Useful software.**
-
-I care about leakage prevention, reproducibility, explicit assumptions, testable pipelines, and building things that remain understandable after the demo is over.
-
----
+<br>
 
 <div align="center">
 
@@ -148,7 +172,9 @@ I care about leakage prevention, reproducibility, explicit assumptions, testable
 
 <br>
 
-*Build quietly. Measure carefully. Ship intelligently.*
+<sub>Build quietly. Measure carefully. Ship intelligently.</sub>
+
+<br><br>
 
 [GitHub](https://github.com/EvilSnIzer) · [All repositories](https://github.com/EvilSnIzer?tab=repositories)
 
