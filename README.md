@@ -2,84 +2,77 @@
 
 # MANAN SHARMA
 
-**Engineering Intelligence for Data, Markets & Software.**
+### Engineering Intelligence for Data, Markets & Software.
 
-`AI/ML` · `QUANT` · `DATA` · `SOFTWARE`
+**AI/ML Engineer** · **Quant & Market Analyst** · **Data Engineer** · **Business Analyst** · **Software Engineer**
 
 *Building intelligent systems where data, models and decisions meet.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#) [![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
+[GitHub](https://github.com/EvilSnIzer) · [Repositories](https://github.com/EvilSnIzer?tab=repositories)
 
 </div>
 
 ---
 
-## About
-
-I work across **machine learning, quantitative analysis, data engineering, business intelligence, and software engineering**.
-
-My projects turn raw information into predictive models, analytical systems, scalable pipelines, and usable software — with an emphasis on **clean data, rigorous validation, and reproducibility**.
-
-> `DATA → INTELLIGENCE → DECISION → SOFTWARE`
-
----
-
-## Selected work
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="61.8%" valign="top">
 
-### ◇ Crypto Trade Outcome Predictor
-**AI / ML**
+## A little about the work
 
-Time-aware crypto outcome prediction with leakage-safe rolling features, walk-forward validation, baselines, testing, CI, and reproducible evaluation.
+I build practical systems across **machine learning, quantitative analysis, data engineering, business intelligence, and software engineering**.
 
-`Python` `scikit-learn` `Time Series`
+The common thread is turning complex information into something **measurable, reproducible, and useful**.
 
-→ [Repository](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ Crypto Spark Pipeline
-**DATA ENGINEERING**
-
-Bronze → Silver → Gold processing for **211K synthetic trades**, built around PySpark, Spark SQL, partitioned Parquet, window analytics, AQE, and Databricks.
-
-`PySpark` `Spark SQL` `Databricks`
-
-→ [Repository](https://github.com/EvilSnIzer/Crypto-spark-pipeline)
+`AI/ML` · `Quant` · `Data` · `Software`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="38.2%" valign="top">
 
-### ◇ CRM Analytics
-**BUSINESS / DATA**
+## Focus
 
-Analytics across **50K+ synthetic CRM leads**, combining relational SQL, conversion modeling, churn prediction, and Power BI reporting.
+**01** Intelligence  
+**02** Markets  
+**03** Data  
+**04** Software
 
-`SQL` `Python` `Power BI`
+<br>
 
-→ [Repository](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ Trading Analytics
-**QUANT / MARKETS**
-
-Historical trading analysis covering PnL, win rate, volume, behavior, and market sentiment.
-
-`Python` `Pandas` `Statistics`
-
-→ [Repository](https://github.com/EvilSnIzer/data-science)
+`think → build → validate`
 
 </td>
 </tr>
 </table>
+
+## Selected work
+
+**01 · [Crypto Trade Outcome Predictor](https://github.com/EvilSnIzer/crypto-trade-outcome-predictor)**  
+*Time-aware ML · feature engineering · validation*
+
+Leakage-safe crypto outcome prediction with rolling features, walk-forward validation, baselines, tests, CI, and reproducible evaluation.
+
+`Python` `scikit-learn` `Time Series`
+
+**02 · [Crypto Spark Pipeline](https://github.com/EvilSnIzer/Crypto-spark-pipeline)**  
+*Data engineering · distributed processing · analytics*
+
+A Bronze → Silver → Gold pipeline for **211K synthetic trades** using PySpark, Spark SQL, partitioned Parquet, window analytics, and Databricks.
+
+`PySpark` `Spark SQL` `Databricks`
+
+**03 · [CRM Analytics & Sales Funnel Intelligence](https://github.com/EvilSnIzer/CRM-Analytics-Sales-Funnel-Intelligence-Dashboard)**  
+*Business intelligence · SQL · predictive analytics*
+
+Analytics across **50K+ synthetic leads**, combining relational modeling, conversion prediction, churn analysis, and Power BI reporting.
+
+`SQL` `Python` `Power BI`
+
+**04 · [Trading Analytics](https://github.com/EvilSnIzer/data-science)**  
+*Quantitative research · financial data · market intelligence*
+
+Historical analysis of trading behavior, PnL, win rate, volume, and market sentiment.
+
+`Python` `Pandas` `Statistics`
 
 ---
 
@@ -95,28 +88,30 @@ Historical trading analysis covering PnL, win rate, volume, behavior, and market
 
 </div>
 
----
-
 ## Toolkit
 
-**AI / ML**  
-`Python` `scikit-learn` `Pandas` `NumPy` `Time Series`
+<table>
+<tr>
+<td width="61.8%" valign="top">
 
-**Data / Quant**  
-`SQL` `PySpark` `Spark SQL` `Databricks` `Parquet` `Statistics` `Power BI`
+**AI / ML**  · Python · scikit-learn · Pandas · NumPy · Time Series  
+**Data / Quant** · SQL · PySpark · Spark SQL · Databricks · Parquet · Statistics
 
-**Software / Automation**  
-`Docker` `REST APIs` `React` `Node.js` `GitHub Actions` `n8n` `Testing`
+</td>
+<td width="38.2%" valign="top">
 
----
+**Software**  · Docker · APIs · React · Node.js · GitHub Actions  
+**Analytics**  · Power BI · BI · Automation · Testing
 
-## Engineering philosophy
+</td>
+</tr>
+</table>
 
-**01** — Start with trustworthy data.  
-**02** — Build models that can be evaluated.  
-**03** — Make assumptions explicit.  
-**04** — Automate what should be repeatable.  
-**05** — Ship software that remains understandable.
+## Engineering principles
+
+> **Reliable data → rigorous evaluation → useful software.**
+
+I value reproducibility, leakage prevention, explicit assumptions, testable pipelines, and systems that remain understandable after the demo.
 
 ---
 
@@ -124,12 +119,8 @@ Historical trading analysis covering PnL, win rate, volume, behavior, and market
 
 ### Currently exploring
 
-`AI Engineering` · `Agentic Systems` · `LLM Applications` · `Quantitative Intelligence` · `Financial Analytics`
+`AI Engineering` · `Agentic Systems` · `Quantitative Intelligence` · `Financial Analytics`
 
-<br>
-
-**Build intelligently. Measure honestly. Ship deliberately.**
-
-[GitHub](https://github.com/EvilSnIzer) · [Repositories](https://github.com/EvilSnIzer?tab=repositories)
+*Build intelligently. Measure honestly. Ship deliberately.*
 
 </div>
