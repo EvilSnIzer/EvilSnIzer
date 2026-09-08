@@ -4,76 +4,25 @@
 
 **Engineering Intelligence for Data, Markets & Software.**
 
-AI/ML Engineer · Quant & Market Analyst · Data Engineer · Business Analyst · Software Engineer
+`AI/ML` · `QUANT` · `DATA` · `SOFTWARE`
 
-<sub>Building systems where data becomes models, models become insight, and insight becomes software.</sub>
+*Building intelligent systems where data, models and decisions meet.*
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![AI%2FML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#) [![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-EvilSnIzer-181717?style=flat-square&logo=github)](https://github.com/EvilSnIzer) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-FF6F00?style=flat-square)](#) [![Data](https://img.shields.io/badge/Data-Engineering-2F80ED?style=flat-square)](#)
 
 </div>
 
-<br>
+---
 
 ## About
 
-I work at the intersection of **machine learning, quantitative analysis, data engineering, business intelligence, and software engineering**.
+I work across **machine learning, quantitative analysis, data engineering, business intelligence, and software engineering**.
 
-My goal is to turn messy information into systems that are **useful, measurable, and reproducible**.
+My projects turn raw information into predictive models, analytical systems, scalable pipelines, and usable software — with an emphasis on **clean data, rigorous validation, and reproducibility**.
 
-> *Curious about the problem. Precise about the data. Practical about the solution.*
+> `DATA → INTELLIGENCE → DECISION → SOFTWARE`
 
-<br>
-
-## What I work with
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**AI / ML**
-
-`Python`  
-`scikit-learn`  
-`Pandas`  
-`Time Series`
-
-</td>
-<td width="25%" align="center">
-
-**Data**
-
-`SQL`  
-`PySpark`  
-`Spark SQL`  
-`Databricks`
-
-</td>
-<td width="25%" align="center">
-
-**Quant**
-
-`Statistics`  
-`Financial Data`  
-`PnL`  
-`Market Analysis`
-
-</td>
-<td width="25%" align="center">
-
-**Software**
-
-`Docker`  
-`APIs`  
-`React`  
-`GitHub Actions`
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## Selected work
 
@@ -82,10 +31,9 @@ My goal is to turn messy information into systems that are **useful, measurable,
 <td width="50%" valign="top">
 
 ### ◇ Crypto Trade Outcome Predictor
-
 **AI / ML**
 
-Time-aware crypto ML with leakage-safe rolling features, walk-forward validation, baselines, testing, CI, and reproducible evaluation.
+Time-aware crypto outcome prediction with leakage-safe rolling features, walk-forward validation, baselines, testing, CI, and reproducible evaluation.
 
 `Python` `scikit-learn` `Time Series`
 
@@ -95,10 +43,9 @@ Time-aware crypto ML with leakage-safe rolling features, walk-forward validation
 <td width="50%" valign="top">
 
 ### ◇ Crypto Spark Pipeline
+**DATA ENGINEERING**
 
-**Data Engineering**
-
-Bronze → Silver → Gold processing for **211K synthetic trades**, with Spark SQL, partitioned Parquet, window analytics, AQE, and Databricks.
+Bronze → Silver → Gold processing for **211K synthetic trades**, built around PySpark, Spark SQL, partitioned Parquet, window analytics, AQE, and Databricks.
 
 `PySpark` `Spark SQL` `Databricks`
 
@@ -109,11 +56,10 @@ Bronze → Silver → Gold processing for **211K synthetic trades**, with Spark 
 <tr>
 <td width="50%" valign="top">
 
-### ◇ CRM Analytics & Sales Intelligence
+### ◇ CRM Analytics
+**BUSINESS / DATA**
 
-**Business / Data**
-
-Analytics across **50K+ synthetic leads**, combining relational SQL, conversion modeling, churn prediction, and Power BI reporting.
+Analytics across **50K+ synthetic CRM leads**, combining relational SQL, conversion modeling, churn prediction, and Power BI reporting.
 
 `SQL` `Python` `Power BI`
 
@@ -123,10 +69,9 @@ Analytics across **50K+ synthetic leads**, combining relational SQL, conversion 
 <td width="50%" valign="top">
 
 ### ◇ Trading Analytics
+**QUANT / MARKETS**
 
-**Quant / Markets**
-
-Historical trading analysis covering behavior, PnL, win rate, volume, and market sentiment.
+Historical trading analysis covering PnL, win rate, volume, behavior, and market sentiment.
 
 `Python` `Pandas` `Statistics`
 
@@ -136,7 +81,7 @@ Historical trading analysis covering behavior, PnL, win rate, volume, and market
 </tr>
 </table>
 
-<br>
+---
 
 ## Contribution activity
 
@@ -150,32 +95,41 @@ Historical trading analysis covering behavior, PnL, win rate, volume, and market
 
 </div>
 
-<br>
+---
+
+## Toolkit
+
+**AI / ML**  
+`Python` `scikit-learn` `Pandas` `NumPy` `Time Series`
+
+**Data / Quant**  
+`SQL` `PySpark` `Spark SQL` `Databricks` `Parquet` `Statistics` `Power BI`
+
+**Software / Automation**  
+`Docker` `REST APIs` `React` `Node.js` `GitHub Actions` `n8n` `Testing`
+
+---
 
 ## Engineering philosophy
 
-<table>
-<tr>
-<td width="33%" align="center"><strong>01</strong><br><sub>Reliable data first</sub></td>
-<td width="33%" align="center"><strong>02</strong><br><sub>Validate before trusting</sub></td>
-<td width="33%" align="center"><strong>03</strong><br><sub>Build for reproducibility</sub></td>
-</tr>
-</table>
+**01** — Start with trustworthy data.  
+**02** — Build models that can be evaluated.  
+**03** — Make assumptions explicit.  
+**04** — Automate what should be repeatable.  
+**05** — Ship software that remains understandable.
 
-<br>
+---
 
 <div align="center">
 
-### Currently building
+### Currently exploring
 
-**AI Engineering** · Agentic Systems · LLM Applications · Quantitative Intelligence · Financial Analytics
+`AI Engineering` · `Agentic Systems` · `LLM Applications` · `Quantitative Intelligence` · `Financial Analytics`
 
 <br>
 
-<sub>Build quietly. Measure carefully. Ship intelligently.</sub>
+**Build intelligently. Measure honestly. Ship deliberately.**
 
-<br><br>
-
-[GitHub](https://github.com/EvilSnIzer) · [All repositories](https://github.com/EvilSnIzer?tab=repositories)
+[GitHub](https://github.com/EvilSnIzer) · [Repositories](https://github.com/EvilSnIzer?tab=repositories)
 
 </div>
