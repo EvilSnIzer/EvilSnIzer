@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ssr
+.vercel
+*.local
+.smoke/_mobile.mjs
+.DS_Store
+npm-debug.log*
+node_modules/dist/.vercel
