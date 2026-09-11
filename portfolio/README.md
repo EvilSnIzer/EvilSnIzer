@@ -176,9 +176,19 @@ loop — batch it with the pattern used in `src/state/skills.ts`.
 The repo is your GitHub profile repository, so the app lives in `portfolio/` and the
 profile `README.md` at the repo root stays intact.
 
-**Dashboard:** import the repo → *Framework Preset: Vite* → **Root Directory =
-`portfolio`**. The included `portfolio/vercel.json` already sets build command,
-output dir, install command and cache/security headers.
+**Set Root Directory to `portfolio` — this is required, not optional.** There is no
+`package.json` at the repo root, so a root-directory project fails during install
+before any config in `portfolio/` is read. (This is exactly what happened to the
+preview deploy on PR #1.) In the dashboard: *Settings → General → Root Directory →
+`portfolio/` → Save*, which makes Vercel use `portfolio/vercel.json` — build command,
+`npm ci --legacy-peer-deps`, `dist` output, immutable asset caching, security
+headers.
+
+Only keep a root-level `vercel.json` if you genuinely want a root-dir deploy; it
+needs `buildCommand: "cd portfolio && npm ci --legacy-peer-deps && npm run build"`
+and `outputDirectory: "portfolio/dist"`, and you must also override the dashboard's
+Install Command (`cd portfolio && npm ci --legacy-peer-deps`) — dashboard settings win
+over the file, which is how a correct-looking config still fails.
 
 **CLI:**
 
